@@ -1,0 +1,3 @@
+git clone https://github.com/GeethaE27/cybersecurity-incident-classification.git
+cd cybersecurity-incident-classification
+pip install -r requirements.txt
