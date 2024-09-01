@@ -2,7 +2,7 @@
 
 **Project Overview**
 
-    This project aims to enhance the efficiency of Security Operation Centers (SOCs) by developing a machine learning model capable of accurately predicting the triage grade of cybersecurity incidents. Using the comprehensive GUIDE dataset, the model categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) based on historical evidence and customer responses. The ultimate goal is to support guided response systems in providing SOC analysts with precise, context-rich recommendations, thereby improving the overall security posture of enterprise environments.
+This project aims to enhance the efficiency of Security Operation Centers (SOCs) by developing a machine learning model capable of accurately predicting the triage grade of cybersecurity incidents. Using the comprehensive GUIDE dataset, the model categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) based on historical evidence and customer responses. The ultimate goal is to support guided response systems in providing SOC analysts with precise, context-rich recommendations, thereby improving the overall security posture of enterprise environments.
 
 **Skills Learned**
 
@@ -20,7 +20,7 @@
 
 **Problem Statement**
 
-    In this project, you assume the role of a data scientist at Microsoft tasked with enhancing the SOCs' efficiency. The objective is to develop a machine learning model that can predict the triage grade of cybersecurity incidents using the GUIDE dataset. The model will categorize incidents as true positive (TP), benign positive (BP), or false positive (FP). The performance of the model will be evaluated based on macro-F1 score, precision, and recall, ensuring that it generalizes well to unseen data and is reliable for real-world applications.
+In this project, you assume the role of a data scientist at Microsoft tasked with enhancing the SOCs' efficiency. The objective is to develop a machine learning model that can predict the triage grade of cybersecurity incidents using the GUIDE dataset. The model will categorize incidents as true positive (TP), benign positive (BP), or false positive (FP). The performance of the model will be evaluated based on macro-F1 score, precision, and recall, ensuring that it generalizes well to unseen data and is reliable for real-world applications.
 
 **Business Use Cases**
 
@@ -64,7 +64,7 @@ Error Analysis: Identify common misclassifications for further model refinement.
 
 **Results**
 
-        A machine learning model that accurately predicts the triage grade of cybersecurity incidents (TP, BP, FP) with high macro-F1 score, precision, and recall. A detailed analysis of model performance, including insights into the most influential features.
+A machine learning model that accurately predicts the triage grade of cybersecurity incidents (TP, BP, FP) with high macro-F1 score, precision, and recall. A detailed analysis of model performance, including insights into the most influential features.
 Comprehensive documentation of the model development process, including recommendations for real-world deployment.
 
 
