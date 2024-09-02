@@ -20,7 +20,7 @@ This project aims to enhance the efficiency of Security Operation Centers (SOCs)
 
 **Problem Statement**
 
-In this project, you assume the role of a data scientist at Microsoft tasked with enhancing the SOCs' efficiency. The objective is to develop a machine learning model that can predict the triage grade of cybersecurity incidents using the GUIDE dataset. The model will categorize incidents as true positive (TP), benign positive (BP), or false positive (FP). The performance of the model will be evaluated based on macro-F1 score, precision, and recall, ensuring that it generalizes well to unseen data and is reliable for real-world applications.
+The objective is to develop a machine learning model that can predict the triage grade of cybersecurity incidents using the GUIDE dataset. The model will categorize incidents as true positive (TP), benign positive (BP), or false positive (FP). The performance of the model will be evaluated based on macro-F1 score, precision, and recall, ensuring that it generalizes well to unseen data and is reliable for real-world applications.
 
 **Business Use Cases**
 
